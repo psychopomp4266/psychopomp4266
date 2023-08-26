@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kshitij Kanade (@psychopomp4266).
+- 👋 Hi, I’m # Kshitij Kanade (@psychopomp4266).
 - 👀 I’m interested in AI/Data Science.
 - 🌱 I’m currently learning Machine Learning and Deep Learning model implementations through courses,internships and projects.
 - 💞️ I’m looking to collaborate on Research Project to delve deeper into the above domains while exploring specializations like Natural Language Processing (NLP) and Computer Vision.
