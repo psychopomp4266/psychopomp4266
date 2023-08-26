@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning model implementations through courses,internships and projects.
 - 💞️ I’m looking to collaborate on Research Project to delve deeper into the above domains while exploring specializations like Natural Language Processing (NLP) and Computer Vision.
 - 📫 How to reach me -
-Email:  kjk.nitt@gmail.com, kjkanade20@gmail.com
-LinkedIn:  http://www.linkedin.com/in/kshitij-kanade-3b275022b ,
-Cellphone:  +91-7774065944. 
+1. Email:  kjk.nitt@gmail.com, kjkanade20@gmail.com
+2. LinkedIn:  http://www.linkedin.com/in/kshitij-kanade-3b275022b ,
+3. Cellphone:  +91-7774065944. 
 
 <!---
 psychopomp4266/psychopomp4266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
