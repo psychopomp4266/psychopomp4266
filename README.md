@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Kshitij Kanade (@psychopomp4266).
-- 👀 I’m interested in AI/Data Science.
-- 🌱 I’m currently learning Machine Learning and Deep Learning model implementations through courses,internships and projects.
-- 💞️ I’m looking to collaborate on Research Project to delve deeper into the above domains while exploring specializations like Natural Language Processing (NLP) and Computer Vision.
+- 👀 I’m interested in Hardware-Software Co-design and verification.
+- 🌱 I’m pursuing Master of Science in Electrical and Computer Engineering at University of California, San Diego and working on parallel-computing project by myself on the side.
 - 📫 How to reach me -
-1. Email:  kjk.nitt@gmail.com, kjkanade20@gmail.com
-2. LinkedIn:  http://www.linkedin.com/in/kshitij-kanade-3b275022b ,
-3. Cellphone:  +91-7774065944. 
+1. Email:  kkanade@ucsd.edu, kjk.nitt@gmail.com, 
+2. LinkedIn:  http://www.linkedin.com/in/kshitij-kanade/ ,
+3. Cellphone:  +1 (619) 953-8023, +91-7774065944. 
 
 <!---
 psychopomp4266/psychopomp4266 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
